@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaminoLib", "CaminoLib\CaminoLib.csproj", "{00AB83B6-F605-43A6-A6D4-07DFB19CF175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaminoClient", "CaminoClient\CaminoClient.csproj", "{486F7572-7495-4B77-A7C8-0A40331A0ADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaminoServer", "CaminoServer\CaminoServer.csproj", "{A11ED0B1-E26F-4F38-94EF-554069605FE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00AB83B6-F605-43A6-A6D4-07DFB19CF175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AB83B6-F605-43A6-A6D4-07DFB19CF175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AB83B6-F605-43A6-A6D4-07DFB19CF175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AB83B6-F605-43A6-A6D4-07DFB19CF175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{486F7572-7495-4B77-A7C8-0A40331A0ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486F7572-7495-4B77-A7C8-0A40331A0ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486F7572-7495-4B77-A7C8-0A40331A0ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486F7572-7495-4B77-A7C8-0A40331A0ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11ED0B1-E26F-4F38-94EF-554069605FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11ED0B1-E26F-4F38-94EF-554069605FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11ED0B1-E26F-4F38-94EF-554069605FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11ED0B1-E26F-4F38-94EF-554069605FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
